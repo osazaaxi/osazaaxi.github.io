@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osazaaxi.github.io/hlM/sitemap_index.txt
+Sitemap: https://osazaaxi.github.io/pCU/sitemap_index.txt
+Sitemap: https://osazaaxi.github.io/rgi/sitemap_index.txt
+Sitemap: https://osazaaxi.github.io/xty/sitemap_index.txt
